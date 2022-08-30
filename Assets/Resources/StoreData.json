@@ -1,0 +1,72 @@
+{
+    "coins": 470,
+    "money": 840,
+    "sections": [
+        {
+            "sectionname": "DailyDeals",
+            "sectiondesc": "It is daily deal",
+            "cards": [
+                {
+                    "id": 100,
+                    "name": "Gold",
+                    "cost": 20,
+                    "sprite": "Gold",
+                    "availabletouse": 2,
+                    "updatevalue": 10,
+                    "cointype": 0
+                },
+                {
+                    "id": 101,
+                    "name": "Gold",
+                    "cost": 20,
+                    "sprite": "knife",
+                    "availabletouse": 3,
+                    "updatevalue": 10,
+                    "cointype": 0
+                },
+                {
+                    "id": 102,
+                    "name": "Gold",
+                    "cost": 20,
+                    "sprite": "Fireball",
+                    "availabletouse": 3,
+                    "updatevalue": 10,
+                    "cointype": 0
+                }
+            ]
+        },
+        {
+            "sectionname": "Emotes",
+            "sectiondesc": "It is daily deal",
+            "cards": [
+                {
+                    "id": 103,
+                    "name": "Gold",
+                    "cost": 20,
+                    "sprite": "Gold",
+                    "availabletouse": 3,
+                    "updatevalue": 10,
+                    "cointype": 0
+                },
+                {
+                    "id": 104,
+                    "name": "Gold",
+                    "cost": 20,
+                    "sprite": "knife",
+                    "availabletouse": 3,
+                    "updatevalue": 10,
+                    "cointype": 1
+                },
+                {
+                    "id": 105,
+                    "name": "Gold",
+                    "cost": 20,
+                    "sprite": "Fireball",
+                    "availabletouse": 3,
+                    "updatevalue": 10,
+                    "cointype": 1
+                }
+            ]
+        }
+    ]
+}
